@@ -1,93 +1,85 @@
-# Curriculo
-Uma breve apresentação sobre meu currículo atual ;)
+# 📄 Currículo - Jonathan Martins Ramos
 
-(31) 99164-1174 (Telefone)
-jonathanmar138@gmail.com (E-mail)
-https://www.linkedin.com/in/jonathan-martins-ramos/ (Linkedin)
+📞 **Telefone:** (31) 99164-1174  
+📧 **E-mail:** jonathanmar138@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/jonathan-martins-ramos](https://www.linkedin.com/in/jonathan-martins-ramos/)
 
->--- Resumo ---<
-  Sou graduado em Matemática pela Universidade do Estado de Minas Gerais (UEMG) e atuei
-como design instrucional, professor da rede pública e particular de Minas Gerais. Logo após
-iniciar o curso Engenharia da Computação, na mesma instituição, fui convidado para
-integrar o time de qualidade da empresa, onde aprimorei meus conhecimentos e migrei
-totalmente para a área. Tenho ampla experiência em cálculo e algoritmos matemáticos, o
-que me proporciona uma base sólida para a resolução de problemas complexos. Nos
-últimos três anos, estive dedicado à área de qualidade de software, onde desenvolvi
-conhecimentos em testes e garantia de qualidade, padrões e normas do BDD e metologias
-ágeis.
+---
 
+## 🚀 Resumo
+Sou graduado em Matemática pela Universidade do Estado de Minas Gerais (UEMG) e atuei como design instrucional, professor da rede pública e particular. Após iniciar Engenharia da Computação na mesma instituição, ingressei na área de qualidade de software, onde venho atuando há mais de 3 anos.  
+Tenho sólida base em cálculo e algoritmos matemáticos, o que me ajuda na resolução de problemas complexos. Nos últimos anos, me especializei em **testes manuais e automatizados**, BDD e metodologias ágeis.
 
->--- Principais competências---< 
-  Testes Manuais | Gherkin | Testes de Performace Teste de aplicações | Java | C# | SQL | Selenium | Robot | Scrum | Metodologias Ágeis
+---
 
+## 🛠️ Principais Competências
+- Testes Manuais | Testes de Performance | Teste de Aplicações  
+- **BDD (Gherkin)**  
+- **Automação:** Selenium | Robot Framework  
+- **Linguagens:** Java | C# | SQL  
+- **Metodologias:** Scrum | Kanban | Ágeis  
+- **Ferramentas:** Insomnia | Postman | JMeter | K6 | Azure DevOps | Jira  
 
->--- Formação Acadêmica ---<
-  Universidade do Estado de Minas Gerais
-Graduação, Engenharia de Computação · (2021 - 2025)
+---
 
-  Universidade do Estado de Minas Gerais
-Licenciatura, Matemática · (2016 - 2020)
+## 🎓 Formação Acadêmica
+- **Engenharia de Computação** – Universidade do Estado de Minas Gerais (2021 - 2025)  
+- **Licenciatura em Matemática** – Universidade do Estado de Minas Gerais (2016 - 2020)  
 
+---
 
->--- Certificações ---<
-• Automação de testes com selenium webdriver e Java Básico
-• Selenium Avançado - Técnicas avançadas de automação com CI/ CD
-• Terminal: aprenda comandos para executar tarefas
-• Banco de dados MySQL
-• Robot Framework: automatizando testes no padrão BDD
-• REST APIs
-• Metodologia Scrum aplicada ao Jira a partir do zero!
-• Scrum: agilidade em seu projeto
-• Quality Assurance: plano de testes e gestão de bugs
-• IA: explorando o potencial da inteligência artificial generativa
+## 📜 Certificações
+- Automação de testes com Selenium WebDriver e Java Básico  
+- Selenium Avançado - Técnicas avançadas de automação com CI/CD  
+- Terminal: Aprenda comandos para executar tarefas  
+- Banco de Dados MySQL  
+- Robot Framework: Automatizando testes no padrão BDD  
+- REST APIs  
+- Metodologia Scrum aplicada ao Jira a partir do zero!  
+- Scrum: Agilidade em seu projeto  
+- Quality Assurance: Plano de testes e gestão de bugs  
+- IA: Explorando o potencial da inteligência artificial generativa  
 
+---
 
->--- Experiência ---<
-  +A Educação
-- Analista de teste/QA
-fevereiro de 2025 – setembro de 2025 (8 meses) Porto
-Alegre, Rio Grande do Sul, Brasil - Remoto
-- Elaboração de testes de funcionalidades;
-- Documentação de casos em BDD na linguagem Gherkin;
-- Automação de casos de testes para acompanhamento contínuo da aplicação (Selenium - Java);
-- Testes de API (Insomnia) e testes de performace (K6);
-- Acompanhamento de métricas de qualidade do time;
-- Utilizando metodologias ágeis (Kanbam – Azure devops) durante o fluxo de desenvolvimento;
-- Atualização de manuais e documentação de versões em versionamento.
+## 💼 Experiência Profissional
 
+### +A Educação – *Analista de Testes/QA*  
+📍 Porto Alegre, RS – Remoto | **fev 2025 – set 2025 (8 meses)**  
+- Elaboração e execução de testes funcionais;  
+- Escrita de casos em **BDD (Gherkin)**;  
+- Automação de testes com **Selenium (Java)**;  
+- Testes de API (**Insomnia**) e performance (**K6**);  
+- Acompanhamento de métricas de qualidade;  
+- Uso de metodologias ágeis (**Kanban – Azure DevOps**);  
+- Atualização de manuais e documentação de versões.  
 
->--- Cartpanda ---<
-  - Quality Assurance - QA
-outubro de 2024 - fevereiro de 2025 (5 meses)
-Delaware, Estados Unidos - Remoto
-- Atuação na estruturação de novos projetos, criando fluxos lógicos de testes;
-- Identificação, documentação de casos de testes com escrita em BDDs utilizando a linguagem Gherkin;
-- Apoio a testes funcionais do início ao release, assegurando a qualidade e o pleno funcionamento do software
-- Execução de testes manuais e automatizados (Selenium na linguagem Java);
-- Execução de testes de API (Postman e Insomnia) e testes de performace (JMeter);
+---
 
-  
->--- Bernoulli Educação ---<
-  - Quality Assurance - QA
-agosto de 2022 - outubro de 2024 (2 anos 3 meses)
-Belo Horizonte, Minas Gerais, Brasil - Remoto
-- Colaboração ativa com equipes de desenvolvimento, antecipando problemas e garantindo alinhamento nos requisitos.
-- Definição e execução de planos de teste focados em cobertura efetiva e qualidade contínua.
-- Validação constante da plataforma, assegurando disponibilidade e funcionamento correto em todas as entregas.
-- Automação de testes utilizando Robot Framework e Selenium (Java).
-- Testes de API utilizando Postman e testes de performace (JMeter);
-- Gestão de demandas e bugs no Jira aplicado a metodologia Scrum.
-- Identificação e previsão de bugs para mitigar riscos antes de chegarem em produção.
-  
-  - Analista de soluções digitais
-abril de 2022 - agosto de 2022 (5 meses)
-Belo Horizonte, Minas Gerais, Brasil - Presencial
-- Apresentação aos clientes as soluções digitais da empresa;
-- Viagens para implementação do uso das solucões educacionais nas escolas parceiras.
-  
-  - Designer Instrucional Designer Instrucional
-ago de 2021 - abr de 2022 (9 meses)
-Belo Horizonte, Minas Gerais, Brasil - Remoto
-- Colaboração ativa com equipes de desenvolvimento de material didáticos;
-- Criaçao de Questões de vertibular;
-- Conteúdos educacional utilizando Realidade aumentada, conteúdo extra livro didático
+### Cartpanda – *Quality Assurance (QA)*  
+📍 Delaware, EUA – Remoto | **out 2024 – fev 2025 (5 meses)**  
+- Estruturação de novos projetos e fluxos de testes;  
+- Escrita de casos de teste em **BDD (Gherkin)**;  
+- Testes manuais e automatizados (**Selenium - Java**);  
+- Testes de API (**Postman/Insomnia**) e performance (**JMeter**).  
+
+---
+
+### Bernoulli Educação – *Quality Assurance (QA)*  
+📍 Belo Horizonte, MG – Remoto | **ago 2022 – out 2024 (2 anos 3 meses)**  
+- Definição e execução de planos de testes;  
+- Automação de testes (**Robot Framework, Selenium - Java**);  
+- Testes de API (**Postman**) e performance (**JMeter**);  
+- Gestão de bugs no **Jira/Scrum**;  
+- Validação contínua da plataforma;  
+- Antecipação de falhas e mitigação de riscos em produção.  
+
+**Analista de Soluções Digitais** (abr 2022 – ago 2022, 5 meses)  
+- Apresentação e implementação de soluções digitais em escolas parceiras.  
+
+**Designer Instrucional** (ago 2021 – abr 2022, 9 meses)  
+- Desenvolvimento de materiais didáticos;  
+- Criação de questões de vestibular;  
+- Conteúdos digitais com realidade aumentada.  
+
+---
