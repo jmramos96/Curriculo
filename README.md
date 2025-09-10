@@ -12,6 +12,30 @@ Tenho sólida base em cálculo e algoritmos matemáticos, o que me ajuda na reso
 
 ---
 
+## 💻 Tech Stack
+
+### Linguagens e Automação
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-5C2D91?logo=cucumber&logoColor=white)
+
+### Ferramentas de Teste
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?logo=robotframework&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white)
+![K6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
+
+### Gestão e Metodologias
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
+
+---
+
 ## 🛠️ Principais Competências
 - Testes Manuais | Testes de Performance | Teste de Aplicações  
 - **BDD (Gherkin)**  
